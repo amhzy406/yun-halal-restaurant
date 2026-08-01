@@ -1,0 +1,1 @@
+console.log("Welcome to Central Plains Halal Restaurant");
